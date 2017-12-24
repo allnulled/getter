@@ -40,4 +40,4 @@ It doesn't handle errors, but it's up to you to add 3 more lines and handle them
 
 ## 3. License
 
-Hah, license. I don't want to be rich in this shitty society. In fact, our capitalist society is a nasty one, and we all go in a ship that will crush, don't you see it yet? Damn, wake up, brainwashed people. How many wars you need to ignore, how much pain you will negate, until you realize that the evil that lives in the rich people, lives in your dreams too, in your unconclusive, artificial dreams...# Read this file
+Hah, license. I don't want to be rich in this shitty society. In fact, our capitalist society is a nasty one, and we all go in a ship that will crush, don't you see it yet? Damn, wake up, brainwashed people. How many wars you need to ignore, how much pain you will negate, until you realize that the evil that lives in the rich people, lives in your dreams too, in your unconclusive, artificial dreams...
