@@ -1,27 +1,26 @@
-# Getter
+# simple-getter
 
 ## 1. About
 
-Getter utility (for JavaScript) is just a tool to access objects and arrays nested contents through arrays of values used as *selectors*.
+The simple-getter utility (for JavaScript) is just a tool to access objects and arrays nested contents through arrays of values used as *selectors*.
 
 ## 1. Installation
 
 Import the file at:
 
-    src/getter.js
+    src/simple-getter.js
 
 It should work for both, NodeJS and browser environments.
-
 
 ## 2. Usage
 
 You can use this utility like: 
 
-    Getter(data, selector)
+    SimpleGetter(data, selector)
 
 So for example, once it's loaded, this code should return ```true```:
 
-    Getter(
+    SimpleGetter(
         [0, {a: {b: [0, "foo"]}}, 2],
         [1, "a", "b", 1]
     ) === "foo";
