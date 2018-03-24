@@ -1,0 +1,24 @@
+{
+  "name": "simple-getter",
+  "version": "1.0.1",
+  "description": "A simple getter utility to select properties from arrays or objects",
+  "main": "src/simple-getter.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allnulled/simple-getter.git"
+  },
+  "keywords": [
+    "getter",
+    "pick",
+    "object"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allnulled/simple-getter/issues"
+  },
+  "homepage": "https://github.com/allnulled/simple-getter#readme"
+}
